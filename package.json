@@ -1,5 +1,5 @@
 {
-  "name": "ripple-hashes",
+  "name": "stoxum-hashes",
   "version": "0.3.1",
   "description": "Compute hashes of Ripple objects",
   "license": "ISC",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ripple/ripple-hashes.git"
+    "url": "https://github.com/Stoxum/stoxum-hashes.git"
   },
   "main": "src/index.js",
   "keywords": [
-    "ripple",
-    "ripple-hashes"
+    "stoxum",
+    "stoxum-hashes"
   ],
   "dependencies": {
     "bignumber.js": "^4.1.0",
     "create-hash": "^1.1.2",
-    "ripple-address-codec": "^2.0.1",
-    "ripple-binary-codec": "^0.1.0"
+    "stoxum-address-codec": "^2.0.1",
+    "stoxum-binary-codec": "^0.1.0"
   },
   "devDependencies": {
     "mocha": "*"

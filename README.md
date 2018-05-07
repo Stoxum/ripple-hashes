@@ -1,3 +1,3 @@
-ripple-hashes
+stoxum-hashes
 =============
 Methods to hash Ripple objects

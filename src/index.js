@@ -1,7 +1,7 @@
 'use strict';
 var BigNumber = require('bignumber.js');
-var decodeAddress = require('ripple-address-codec').decodeAddress;
-var binary = require('ripple-binary-codec');
+var decodeAddress = require('stoxum-address-codec').decodeAddress;
+var binary = require('stoxum-binary-codec');
 var hashprefixes = require('./hashprefixes');
 var SHAMap = require('./shamap').SHAMap;
 var SHAMapTreeNode = require('./shamap').SHAMapTreeNode;
